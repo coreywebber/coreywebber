@@ -1,9 +1,9 @@
 ### Hi there, I'm Corey Webber 
 
 ## I'm a Husband, Father, Data Warehouse Architect, Developer, and Gamer!
-- I’m currently working at [Boomi][website]
+- I’m currently working at [Boomi][https://www.boomi.com/]
 - I’m currently managing the Boomi Data Warehouse
-- My current game of choice is Overwatch
+- My current game of choice is Counter Strike 2
 
 ### Connect with me:
 
